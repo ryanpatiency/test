@@ -1,0 +1,78 @@
+h3{
+		color:#005500;
+			font-size:.8em;
+				margin-bottom:1px;
+					margin-left:1em;
+						text-transform:uppercase;
+					}
+					p{
+							font-weight:bold;
+								margin-top:3px;
+									margin-left:1em;
+										line-height:90%;
+											text-transform:uppercase;
+												font-size:.8em;
+											}
+
+											#title{
+													text-align:center;
+														font-family:verdana;
+															font-size:30px;
+														}
+
+														#section1{
+																margin:5px;
+																	width:450px;
+																		height:200px;
+																			background-size:100% 100%;
+																				background-repeat:no-repeat;
+																					background-image:url("images/ee-building.jpg");
+																						display:flex;
+																							align-items:flex-end;
+																								justify-content:flex-end;
+																							}
+
+																							#section2{
+																									margin:5px;
+																										width:200px;
+																											height:200px;
+																												background-size:100% 65%;
+																													background-repeat:no-repeat;
+																														background-image:url("images/ee-icon.jpg");
+																															display:flex;
+																																align-items:flex-end;
+																															}
+
+																															#section3{
+																																	margin:5px;
+																																		width:200px;
+																																			height:200px;
+																																				background-size:100% 65%;
+																																					background-repeat:no-repeat;
+																																						background-image:url("images/ee-side.jpg");
+																																							display:flex;
+																																								align-items:flex-end;
+																																							}
+
+																																							#section4{
+																																									margin:5px;
+																																										width:450px;
+																																											height:200px;
+																																												background-size:100% 100%;
+																																													background-repeat:no-repeat;
+																																														background-image:url("images/ee-people.jpg");
+																																															display:flex;
+																																																align-items:flex-end;
+																																																	justify-content:flex-end;
+																																																}
+																																																.textDiv{
+																																																		display:inline;
+																																																			background: rgba(238,238,238,0.75);
+																																																				
+																																																		}
+																																																		.lineDiv{
+																																																				border-color:red;
+																																																					overflow:auto;
+																																																						display:flex;
+																																																							justify-content:center;
+																																																						}
